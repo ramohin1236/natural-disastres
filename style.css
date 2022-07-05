@@ -8,6 +8,7 @@ body, html{
     background-position: center;
     background-size: cover;
     position: relative;
+    opacity: 0.7;
 }
 .sad-text{
     text-align: center;
@@ -29,4 +30,5 @@ button{
     background-image:linear-gradient(tomato,purple) ;
     font-size: 20px;
     cursor: grab;
+    color:azure
 }
