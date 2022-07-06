@@ -32,3 +32,131 @@ button{
     cursor: grab;
     color:azure
 }
+.donate-today{
+    text-align: center;
+    font-size: 40px;
+}
+.term-2{
+    font-size: 20px;
+    text-align: center;
+}
+.middle-mid{
+    padding-top: 80px;
+}
+.box{
+    display: flex;
+    padding-left: 0;
+    
+}  
+.tk-1{
+    width: 20%;
+        padding-left: 0px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 5px solid whitesmoke;
+    
+    
+
+    
+}  
+.tk-2{
+    width: 20%;
+    
+    padding-left: 0;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px solid salmon;
+    background-color: rgb(236, 209, 205) ;
+}
+.tk-3{
+    width: 20%;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px solid whitesmoke;
+
+}
+.tk-4{
+    width: 20%;
+    font-size: 60px;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px solid whitesmoke;
+
+}
+.form{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.food{
+    border: 2px solid whitesmoke;
+    background-color: rgb(186, 222, 236);
+    text-align: 5px;
+    padding-left: 15px;
+    padding-top: 15px;
+    border-bottom: 20px;
+    
+    padding-right: 30px;
+    margin-right: 5%;
+    margin-left: 5%;
+    
+    
+    
+}
+.shelter{
+    border: 2px solid whitesmoke;
+    background-color: rgb(240, 219, 222);
+    text-align: 5px;
+    padding-left: 15px;
+    padding-top: 15px;
+    
+    padding-right: 15px;
+    margin-right: 5%;
+    margin-left: 5%;
+
+    
+}
+.frame-1{
+    border: 2px solid whitesmoke;
+background-color: rgb(230, 226, 223);
+    text-align: 5px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.help-reason{
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}    
+.tcl{
+    font-size: 20px;
+    margin-left: 20% ;
+    margin-right: 5%;
+}
+.champions{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.picture{
+    width: 600px ;
+    height: 400px;
+}
+.my-self{
+    text-align: center;
+}
