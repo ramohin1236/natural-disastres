@@ -170,3 +170,12 @@ background-color: rgb(230, 226, 223);
     padding-top: 60px;
     padding-bottom: 60px;
 }
+.footer{
+    background-color: rgb(146, 146, 230);
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    font-size: 40px;
+    font-family: cursive;
+}
